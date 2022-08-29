@@ -1,0 +1,68 @@
+[album]
+album_id = "3ff64a5f-1146-4bdf-895c-8e7846eeab0d"
+title = "Shelter: Complete Edition"
+artist = "Porter Robinson、Madeon"
+date = 2017-02-15
+type = "normal"
+catalog = "SICP-5181"
+tags = ["SHELTER"]
+
+[[discs]]
+catalog = "SICP-5181"
+
+[[discs.tracks]]
+title = "Shelter"
+
+[[discs.tracks]]
+title = "Shelter (Mat Zo remix)"
+
+[[discs.tracks]]
+title = "Sad Machine"
+artist = "Porter Robinson"
+
+[[discs.tracks]]
+title = "You’re On"
+artist = "Madeon、Kyan"
+
+[[discs.tracks]]
+title = "Flicker"
+artist = "Porter Robinson"
+
+[[discs.tracks]]
+title = "Pay No Mind"
+artist = "Madeon、Passion Pit"
+
+[[discs.tracks]]
+title = "Nonsense"
+artist = "Madeon、Mark Foster"
+
+[[discs.tracks]]
+title = "Divinity"
+artist = "Porter Robinson、Amy Millan"
+
+[[discs.tracks]]
+title = "Home"
+artist = "Madeon"
+
+[[discs.tracks]]
+title = "Goodbye to a World"
+artist = "Porter Robinson"
+
+[[discs.tracks]]
+title = "Flicker (Mat Zo remix)"
+artist = "Porter Robinson"
+
+[[discs.tracks]]
+title = "Pay No Mind (Yasutaka Nakata ‘Capsule’ remix)"
+artist = "Madeon、Passion Pit"
+
+[[discs.tracks]]
+title = "Fresh Static Snow (Last Island remix)"
+artist = "Porter Robinson"
+
+[[discs.tracks]]
+title = "You’re On (Oliver remix)"
+artist = "Madeon、Kyan"
+
+[[discs.tracks]]
+title = "Shelter (piano version)"

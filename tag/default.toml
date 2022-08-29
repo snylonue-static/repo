@@ -772,6 +772,10 @@ type = "animation"
 name = "TVアニメ「よふかしのうた」"
 type = "animation"
 
+[[tag]]
+name = "SHELTER"
+type = "animation"
+
 ################################################################################
 # Game
 #
