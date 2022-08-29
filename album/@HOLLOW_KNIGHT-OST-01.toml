@@ -1,0 +1,115 @@
+[album]
+album_id = "0ea581d6-61c2-48ec-b24c-c07e7cb12677"
+title = "Hollow Knight: Original Soundtrack"
+artist = "Christopher Larkin"
+date = 2017-02-25
+type = "absolute"
+catalog = "@HOLLOW_KNIGHT-OST-01"
+tags = ["Hollow Knight", "OST"]
+
+[[discs]]
+catalog = "@HOLLOW-KNIGHT-OST"
+
+[[discs.tracks]]
+title = "Enter Hallownest"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Dirtmouth"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Crossroads"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "False Knight"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Greenpath"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Hornet"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Reflection"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Mantis Lords"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "City of Tears"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Dung Defender"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Crystal Peak"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Fungal Wastes"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Decisive Battle"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Soul Sanctum"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Resting Grounds"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Queen’s Gardens"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "The White Lady"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Broken Vessel"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Kingdom’s Edge"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Nosk"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Dream"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Dream Battle"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "White Palace"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Sealed Vessel"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Radiance"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Hollow Knight"
+artist = "Christopher Larkin"

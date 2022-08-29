@@ -1,0 +1,72 @@
+[album]
+album_id = "83aab583-ea61-4197-a5e4-f337b29e251e"
+title = "Hollow Knight: Gods & Nightmares"
+artist = "Christopher Larkin"
+date = 2018-08-09
+type = "absolute"
+catalog = "@HOLLOW_KNIGHT-OST-02"
+tags = ["Hollow Knight", "OST"]
+
+[[discs]]
+title = ""
+catalog = "@HOLLOW-KNIGHT-OST-02"
+
+[[discs.tracks]]
+title = "Hive Knight"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Truth, Beauty and Hatred"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Nightmare Lantern (interlude)"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "The Grimm Troupe"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Nightmare King"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "White Defender"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Dreamers"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Pale Court"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Gods & Glory"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Daughter of Hallownest"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Godhome"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Sisters of Battle"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Haunted Foes"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Furious Gods"
+artist = "Christopher Larkin"
+
+[[discs.tracks]]
+title = "Pure Vessel"
+artist = "Christopher Larkin"

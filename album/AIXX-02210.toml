@@ -1,0 +1,16 @@
+[album]
+album_id = "c7bf79fd-31ac-4af1-adf5-1f069ced49c9"
+title = "堕天"
+artist = "Creepy Nuts"
+date = 2022-07-08
+type = "normal"
+catalog = "AIXX-02210"
+tags = ["TVアニメ「よふかしのうた」"]
+
+[[discs]]
+catalog = "AIXX-02210"
+
+[[discs.tracks]]
+title = "堕天"
+artist = "Creepy Nuts"
+tags = ["OP"]

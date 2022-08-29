@@ -1,6 +1,6 @@
 {
   "[toml]": {
-    "editor.defaultFormatter": "bodil.prettier-toml"
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
   },
   "highlight.regexes": {
     "(〜)": [

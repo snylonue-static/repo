@@ -1,0 +1,29 @@
+[album]
+album_id = "dc619688-45c5-4790-8eed-34e4e6833841"
+title = "星が降るユメ"
+artist = "藍井エイル"
+date = 2019-11-27
+type = "normal"
+catalog = "VVCL-1576"
+tags = ["TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」"]
+
+[[discs]]
+catalog = "VVCL-1576"
+
+[[discs.tracks]]
+title = "星が降るユメ"
+artist = "藍井エイル"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "インサイド・デジタリィ"
+artist = "藍井エイル"
+
+[[discs.tracks]]
+title = "Story"
+artist = "藍井エイル"
+
+[[discs.tracks]]
+title = "星が降るユメ -TV size ver.-"
+artist = "藍井エイル"
+tags = ["ED"]

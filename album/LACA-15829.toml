@@ -1,0 +1,63 @@
+[album]
+album_id = "f2bad30c-8750-4395-a803-32bf296a8bd5"
+title = "Letters and Doll ～Looking back on the memories of Violet Evergarden～"
+artist = "石川由依"
+date = 2020-10-21
+type = "normal"
+catalog = "LACA-15829"
+tags = ["劇場版「ヴァイオレット・エヴァーガーデン」"]
+
+[[discs]]
+catalog = "LACA-15829"
+
+[[discs.tracks]]
+title = "Colored Memories"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "言葉の向こう"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "Sprout"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "Answer"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "月下の庭園で"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "beautiful sky"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "Memories"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "Never-ending love"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "Light of Life"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "手紙"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "sister"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "希望を捨てない人"
+artist = "石川由依"
+
+[[discs.tracks]]
+title = "Dear Violet"
+artist = "石川由依"

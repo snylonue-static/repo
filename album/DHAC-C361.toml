@@ -1,0 +1,67 @@
+[album]
+album_id = "21320798-c79a-409f-92b2-9fdba57c47a4"
+title = "rye"
+artist = "鹿乃"
+date = 2018-12-19
+type = "normal"
+catalog = "DHAC-C361"
+tags = ["鹿乃"]
+
+[[discs]]
+catalog = "DHAC-C361"
+
+[[discs.tracks]]
+title = "「Q」&「A」"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "春に落ちて"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "さよなら、アダムとイヴ"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "なんで"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "loop loop loop"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "HOPE"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "Paddling Blue"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "ハロ／ハワユ"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "想像フォレスト"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "六兆年と一夜物語"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "小夜子"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "メリーメリー"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "クライヤ"
+artist = "鹿乃"
+
+[[discs.tracks]]
+title = "ピエロ"
+artist = "鹿乃"

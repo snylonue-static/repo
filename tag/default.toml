@@ -233,6 +233,10 @@ type = "artist"
 name = "井口裕香"
 type = "artist"
 
+[[tag]]
+name = "鹿乃"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -366,6 +370,10 @@ includes.group = ["fripSide NAO project!"]
 
 [[tag]]
 name = "angela"
+type = "group"
+
+[[tag]]
+name = "ピンクネオン東京"
 type = "group"
 
 ################################################################################
@@ -689,6 +697,10 @@ name = "TVアニメ「それでも歩は寄せてくる」"
 type = "animation"
 
 [[tag]]
+name = "TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」"
+type = "animation"
+
+[[tag]]
 name = "劇場版 ハヤテのごとく！HEAVEN IS A PLACE ON EARTH"
 type = "animation"
 
@@ -754,6 +766,10 @@ type = "animation"
 
 [[tag]]
 name = "アニメ「継母の連れ子が元カノだった」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「よふかしのうた」"
 type = "animation"
 
 ################################################################################
@@ -891,6 +907,11 @@ type = "game"
 name = "まいてつ"
 type = "game"
 
+[[tag]]
+name = "Hollow Knight"
+type = "game"
+
+
 ################################################################################
 # Project
 #
@@ -943,6 +964,13 @@ includes.animation = [
   "アニメ「とある科学の超電磁砲 OVA」",
   "アニメ「とある科学の超電磁砲S」",
   "アニメ「とある科学の超電磁砲Ｔ」",
+]
+
+[[tag]]
+name = "ヴァイオレット・エヴァーガーデン"
+type = "project"
+includes.animation = [
+  "劇場版「ヴァイオレット・エヴァーガーデン」"
 ]
 
 ################################################################################
