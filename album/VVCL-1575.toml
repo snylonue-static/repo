@@ -5,26 +5,22 @@ artist = "藍井エイル"
 date = 2019-11-27
 type = "normal"
 catalog = "VVCL-1575"
-tags = ["TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」"]
+tags = ["藍井エイル"]
 
 [[discs]]
 catalog = "VVCL-1575"
 
 [[discs.tracks]]
 title = "星が降るユメ"
-artist = "藍井エイル"
-tags = ["ED"]
+tags = ["TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」", "ED"]
 
 [[discs.tracks]]
 title = "インサイド・デジタリィ"
-artist = "藍井エイル"
 
 [[discs.tracks]]
 title = "Story"
-artist = "藍井エイル"
 
 [[discs.tracks]]
 title = "星が降るユメ -Instrumental-"
-artist = "藍井エイル"
 type = "instrumental"
-tags = ["ED"]
+tags = ["TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」", "ED"]
