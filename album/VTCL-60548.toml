@@ -3,7 +3,7 @@ album_id = "673c6d79-4b6d-4930-8888-6fdd93d501bc"
 title = "TV ANIMATION 「Sonny Boy」 original soundtrack"
 artist = "落日飛車、VIDEOTAPEMUSIC、ザ・なつやすみバンド、ミツメ、Ogawa & Tokoro、空中泥棒、カネヨリマサル、toe、コーニッシュ"
 date = 2021-09-08
-type = "normal"
+type = "absolute"
 catalog = "VTCL-60548"
 tags = ["TVアニメ「Sonny Boy」"]
 
@@ -13,6 +13,7 @@ catalog = "VTCL-60548"
 [[discs.tracks]]
 title = "少年少女 TV ver."
 artist = "銀杏BOYZ"
+type = "normal"
 
 [[discs.tracks]]
 title = "Broken Windows"
@@ -61,18 +62,22 @@ artist = "ミツメ"
 [[discs.tracks]]
 title = "今日の歌"
 artist = "カネヨリマサル"
+type = "normal"
 
 [[discs.tracks]]
 title = "Lightship"
 artist = "ザ・なつやすみバンド"
+type = "normal"
 
 [[discs.tracks]]
 title = "スペア"
 artist = "ミツメ"
+type = "normal"
 
 [[discs.tracks]]
 title = "サニーボーイ・ラプソディ"
 artist = "toe"
+type = "normal"
 
 [[discs.tracks]]
 title = "Lune"
