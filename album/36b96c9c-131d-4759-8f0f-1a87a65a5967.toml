@@ -1,0 +1,56 @@
+[album]
+album_id = "36b96c9c-131d-4759-8f0f-1a87a65a5967"
+title = "Catch My Breath"
+artist = "Kelly Clarkson"
+date = 2012-01-01
+type = "normal"
+catalog = "@RCA-001"
+tags = ["Kelly Clarkson"]
+
+[[discs]]
+catalog = "@RCA-001"
+
+[[discs.tracks]]
+title = "Catch My Breath (A Lab Remix - Club)"
+artist = "Kelly Clarkson"
+
+[[discs.tracks]]
+title = "Catch My Breath (A Lab Remix - Extended)"
+artist = "Kelly Clarkson"
+
+[[discs.tracks]]
+title = "Catch My Breath (A Lab Remix - Radio)"
+artist = "Kelly Clarkson"
+type = "radio"
+
+[[discs.tracks]]
+title = "Catch My Breath (A Lab Remix Club - Instrumental)"
+artist = "Kelly Clarkson"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Catch My Breath (A Lab Remix Extended - Instrumental)"
+artist = "Kelly Clarkson"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Catch My Breath (A Lab Remix Radio - Instrumental)"
+artist = "Kelly Clarkson"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Catch My Breath (Ark Angel Remix - Main)"
+artist = "Kelly Clarkson"
+
+[[discs.tracks]]
+title = "Catch My Breath (Cash Cash Remix - Main)"
+artist = "Kelly Clarkson"
+
+[[discs.tracks]]
+title = "Catch My Breath (Cash Cash Remix - Instrumental)"
+artist = "Kelly Clarkson"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Catch My Breath (Lenny B Remix - Club)"
+artist = "Kelly Clarkson"
