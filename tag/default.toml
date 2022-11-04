@@ -265,6 +265,14 @@ type = "artist"
 name = "Kelly Clarkson"
 type = "artist"
 
+[[tag]]
+name = "髙橋ミナミ"
+type = "artist"
+
+[[tag]]
+name = "坂本真綾"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -407,6 +415,18 @@ type = "group"
 # StylipS（石原夏織、能登有沙、小倉唯、松永真穂）
 [[tag]]
 name = "StylipS"
+type = "group"
+
+[[tag]]
+name = "Afilia Saga East"
+type = "group"
+
+[[tag]]
+name = "マカロニえんぴつ"
+type = "group"
+
+[[tag]]
+name = "cadode"
 type = "group"
 
 ################################################################################
@@ -822,10 +842,6 @@ name = "アニメ「最近雇ったメイドが怪しい」"
 type = "animation"
 
 [[tag]]
-name = "アニメ「シャインポスト」"
-type = "animation"
-
-[[tag]]
 name = "アニメ「Engage Kiss」"
 type = "animation"
 
@@ -862,7 +878,31 @@ name = "咲-Saki- 阿知賀編 episode of side-A"
 type = "animation"
 
 [[tag]]
+name = "TVアニメ「であいもん」"
+type = "animation"
+
+[[tag]]
 name = "サマータイムレンダ"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「ぼっち・ざ・ろっく！」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「悪役令嬢なのでラスボスを飼ってみました」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「トモダチゲーム」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「SHAMAN KING」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「Levius レビウス」"
 type = "animation"
 
 ################################################################################
@@ -1004,6 +1044,17 @@ type = "game"
 name = "Hollow Knight"
 type = "game"
 
+[[tag]]
+name = "Starry☆Sky～After Spring～Portable"
+type = "game"
+
+[[tag]]
+name = "ゲーム「たんていぶ」"
+type = "game"
+
+[[tag]]
+name = "ゲーム「INFINITY SOULS」"
+type = "game"
 
 ################################################################################
 # Project
@@ -1034,16 +1085,13 @@ name = "この世の果てで恋を唄う少女YU-NO"
 type = "project"
 includes.animation = [
   "アニメ「この世の果てで恋を唄う少女YU-NO」現世編",
-  "アニメ「この世の果てで恋を唄う少女YU-NO」異世界編"
+  "アニメ「この世の果てで恋を唄う少女YU-NO」異世界編",
 ]
 
 [[tag]]
 name = "ノーゲーム・ノーライフ"
 type = "project"
-includes.animation = [
-  "アニメ「ノーゲーム・ノーライフ」",
-  "映画「ノーゲーム・ノーライフ ゼロ」",
-]
+includes.animation = ["アニメ「ノーゲーム・ノーライフ」", "映画「ノーゲーム・ノーライフ ゼロ」"]
 
 [[tag]]
 name = "Nカフェ!!! 南條愛乃と語るモア"
@@ -1069,8 +1117,31 @@ includes.animation = [
 [[tag]]
 name = "無職転生 ～異世界行ったら本気だす～"
 type = "project"
-includes.animation = [
-  "アニメ「無職転生 ～異世界行ったら本気だす～」"
+includes.animation = ["アニメ「無職転生 ～異世界行ったら本気だす～」"]
+
+[[tag]]
+name = "STEINS;GATE"
+type = "project"
+includes.game = ["ゲーム「STEINS;GATE」", "STEINS;GATE 比翼恋理のだーりん"]
+
+[[tag]]
+name = "CHAOS;HEAD"
+type = "project"
+includes.group = ["ファンタズム"]
+
+[[tag]]
+name = "シャインポスト"
+type = "project"
+includes.animation = ["アニメ「シャインポスト」"]
+includes.group = [
+  # TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））
+  "TINGS",
+  # ゆらゆらシスターズ（ナターリャ（古賀葵）、広瀬実唯菜（齋藤樹愛羅））
+  "ゆらゆらシスターズ",
+  # HY:RAIN（黒金蓮（芹澤優）、唐林青葉（高瀬くるみ）、唐林絃葉（久保田未夢）、氷海菜花（高柳知葉）、苗川柔（香里有佐））
+  "HY:RAIN",
+  # FFF（兎塚七海（野口衣織）、陽本日夏（木野日菜）、梨子木麗美（ファイルーズあい））
+  "FFF",
 ]
 
 ################################################################################

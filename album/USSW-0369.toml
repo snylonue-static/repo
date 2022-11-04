@@ -1,17 +1,29 @@
 [album]
 album_id = "0614f511-2c92-4739-9884-36c88fe92f7c"
 title = "夏夢ノイジー"
+<<<<<<< HEAD
+=======
+edition = "アニメ盤"
+>>>>>>> official/master
 artist = "亜咲花"
 date = 2022-08-10
 type = "normal"
 catalog = "USSW-0369"
+<<<<<<< HEAD
 tags = ["サマータイムレンダ"]
+=======
+tags = ["亜咲花"]
+>>>>>>> official/master
 
 [[discs]]
 catalog = "USSW-0369"
 
 [[discs.tracks]]
 title = "夏夢ノイジー"
+<<<<<<< HEAD
+=======
+tags = ["サマータイムレンダ", "OP"]
+>>>>>>> official/master
 
 [[discs.tracks]]
 title = "VOICE"
@@ -22,6 +34,10 @@ title = "dreamer"
 [[discs.tracks]]
 title = "夏夢ノイジー (off vocal)"
 type = "instrumental"
+<<<<<<< HEAD
+=======
+tags = ["サマータイムレンダ", "OP"]
+>>>>>>> official/master
 
 [[discs.tracks]]
 title = "VOICE (off vocal)"

@@ -5,13 +5,21 @@ artist = "cadode"
 date = 2022-04-27
 type = "normal"
 catalog = "USSW-0343"
+<<<<<<< HEAD
 tags = ["サマータイムレンダ"]
+=======
+tags = ["cadode"]
+>>>>>>> official/master
 
 [[discs]]
 catalog = "USSW-0343"
 
 [[discs.tracks]]
 title = "回夏"
+<<<<<<< HEAD
+=======
+tags = ["サマータイムレンダ"]
+>>>>>>> official/master
 
 [[discs.tracks]]
 title = "光"
@@ -21,6 +29,10 @@ title = "カオサン通り (band)"
 
 [[discs.tracks]]
 title = "回夏 -karaoke-"
+<<<<<<< HEAD
+=======
+tags = ["サマータイムレンダ"]
+>>>>>>> official/master
 
 [[discs.tracks]]
 title = "光 -karaoke-"
@@ -31,6 +43,10 @@ title = "カオサン通り (band) -karaoke-"
 [[discs.tracks]]
 title = "回夏 -Instrumental-"
 type = "instrumental"
+<<<<<<< HEAD
+=======
+tags = ["サマータイムレンダ"]
+>>>>>>> official/master
 
 [[discs.tracks]]
 title = "光 -Instrumental-"
