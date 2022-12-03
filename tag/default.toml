@@ -1043,10 +1043,6 @@ name = "Do It Yourself!!"
 names.zh-hans = "少女手工"
 type = "animation"
 
-[[tag]]
-name = "日本アニメ（ーター）見本市"
-type = "animation"
-
 ################################################################################
 # Game
 #
